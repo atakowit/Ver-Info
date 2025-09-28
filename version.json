@@ -4,6 +4,6 @@
   "sha256": "",
   "allowedUsers": [
     "ชื่อที่ตรงกับ login.CurrentOwnerName",
-    "anotherUser"
+    "SetByBiw"
   ]
 }
