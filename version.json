@@ -1,9 +1,9 @@
 {
   "version": "2.0.0.1",
-  "url": "https://github.com/<user>/<repo>/releases/download/v1.2.3/MyApp-1.2.3.zip",
+  "url": "...",
   "sha256": "",
   "allowedUsers": [
-    "ชื่อที่ตรงกับ login.CurrentOwnerName",
-    "SetByBiw"
+    "SetByBiw",
+    "อีกชื่อที่อนุญาต"
   ]
 }
