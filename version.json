@@ -1,7 +1,7 @@
 {
-  "version": "2.0.1.2",
+  "version": "2.0.1.3",
   "url": "...",
-  "sha256": "เพิ่ม Renew กล่อง \n– ปรับปรุง Ui \n– ปรับปรุงอื่นๆ",
+  "sha256": "เพิ่ม การ ลบFlash Count แบบง่าย \n– ปรับปรุง Ui \n– ปรับปรุงอื่นๆ",
   "allowedUsers": [
     "SetByB",
     "NICE",
