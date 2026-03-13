@@ -1,7 +1,7 @@
 {
-  "version": "2.0.1.4",
+  "version": "2.0.1.5",
   "url": "...",
-  "sha256": "เพิ่ม การ ลบFlash Count แบบง่าย \n– ปรับปรุง Ui \n– ปรับปรุงอื่นๆ",
+  "sha256": "เพิ่ม การเขียนไฟล์ S3 56KB \n– ปรับปรุงแก้ใข DataView \n– แก้ใขปุ่มล็อค LTFT",
   "allowedUsers": [
     "SetByB",
     "NICE",
